@@ -1,1 +1,11 @@
-"# Practica3B" 
+"# Ingenieria de registro" 
+algun texto
+
+## subtitulo
+
+...
+
+### SS
+
+....
+
